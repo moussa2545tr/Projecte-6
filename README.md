@@ -14,6 +14,10 @@ Exercicis del projecte 6. " Projecte 6: Programar és fàcil!
 - `holamon.py`: imprimeix per pantalla el missatge “Hola món!”.
 - `nom_i_edat.py`: imprimeix el meu nom (Moussa) i la meva edat (19 anys).
 - Activitat 3 Conceptes bàsics sobre programació : EXERCICIS BÀSICS DE PYTHON
+- RA2 flux 1 :
+- RA2 flux 2 :
+- RA2 flux 3 :
+- Cadenes i llistes : 
 
 
 
